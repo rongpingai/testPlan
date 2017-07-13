@@ -13,3 +13,5 @@ driver.find_element_by_id("password").send_keys("123456")
 driver.find_element_by_id("loginButtn").click()
 
 driver.find_element_by_class_name("signout").click()
+
+print 'Done!'
